@@ -1,6 +1,6 @@
-# POWAIM: Tasks Tracker 🗒️
+# POWAIM DevPro Suite 🚀 (Work in Progress)
 
-**POWAIM: Tasks Tracker** is a feature-rich To-Do List and Task Tracker web application designed to help you plan, track, and complete tasks effectively. Whether you're managing daily chores, organizing work projects, or keeping up with your personal goals, POWAIM has you covered.
+**POWAIM DevPro Suite** is a feature-rich task management tool designed for fellow software devs, providing effortless task management and boosting dev productivity. It combines the power of a Kanban Board, a Pomodoro Timer, and a Task Tracker, all in one comprehensive solution.
 
 ## Key Features
 
@@ -22,12 +22,13 @@
 
 ## Getting Started
 
-Follow these steps to get started with POWAIM: Tasks Tracker:
+Follow these steps to get started with POWAIM DevPro Suite:
 
 1. **Clone the Repository**:
    ```shell
-   git clone https://github.com/IdealisticINTJ/POWAIM-Tasks-Tracker.git
- 
+   git clone https://github.com/IdealisticINTJ/POWAIM-DevPro-Suite.git
+   
+
 ## Installation
 
 1. Open the project folder.
@@ -44,7 +45,7 @@ We welcome contributions from the open-source community. Feel free to contribute
 
 ### How to Contribute
 
-If you're interested in contributing to **POWAIM: Tasks Tracker**, please check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
+If you're interested in contributing to **POWAIM DevPro Suite**, please check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 ## Support and Contact
 
@@ -58,9 +59,6 @@ For any questions, suggestions, or issues, please contact:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-We hope that **POWAIM: Tasks Tracker** proves to be a valuable tool in helping you manage your tasks and stay organized. Thank you for using our application!
+We hope that **POWAIM DevPro Suite** proves to be a valuable tool in helping you manage your tasks and stay organized. Thank you for using our application!
 
 **Happy task-tracking!** 🚀📋
-
